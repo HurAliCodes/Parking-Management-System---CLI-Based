@@ -29,7 +29,7 @@ Welcome to the **CLI-Based Parking Management System** repository! This project 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/parking-management-system.git
+   git clone https://github.com/HurAliCodes/parking-management-system.git
    ```
 2. Compile the code using a C compiler.
 3. Run the executable to start managing parking operations.
